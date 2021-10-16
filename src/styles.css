@@ -1,1 +1,11 @@
-/*this is CSS*/
+.header {
+    display: flex;
+    padding-top: 20px;
+    padding-left: 700px;
+    list-style-type: none;
+    text-indent: 60px;
+    background: black;
+    width: inherit;
+    height: 70px;
+    /* opacity: 60%; */
+}
